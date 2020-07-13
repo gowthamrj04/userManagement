@@ -1,0 +1,16 @@
+h5 {
+  margin-top: 30px;
+}
+.row.tabContent {
+  align-items: center !important;
+  width: 1000px !important;
+  margin-left: 10% !important;
+  margin-top: 5% !important;
+}
+div#myTabContent {
+  margin-top: 3%;
+}
+.userprofile {
+  top: 0;
+  margin-top: 0px !important;
+}
